@@ -111,18 +111,20 @@ export default function Home() {
             <p className="text-xs text-gray-500 mb-2">© 2024 Acesso Privado. Navegação 100% anônima.</p>
             <p className="text-xs text-gray-600">Privacidade garantida • Suporte discreto 24/7</p>
             <p className="text-xs text-gray-600 text-justify">
-              Ao utilizar esta plataforma, você concorda automaticamente com nossos <strong>Termos de Uso</strong> e nossa <strong>Política de Privacidade</strong>, disponíveis para leitura e aceitação. É essencial que o usuário compreenda plenamente as responsabilidades, obrigações e limitações previstas nestes documentos, sendo o acesso e uso deste site restritos apenas a maiores de 18 anos.
-              <br />
-              Esclarecemos que este site <strong>não hospeda</strong> nem armazena fisicamente qualquer vídeo. Todo o conteúdo exibido aqui provém de fontes públicas e já disponíveis na internet, como: xGroovy, PornHub, Xvideos, Xpaja, DarknessPorn, ThisVid, Erome, entre outros. Atuamos unicamente como uma plataforma que <strong>exibe diretamente</strong> estes vídeos em nossos players, sem redirecionar o usuário para as páginas de origem, e sem qualquer vínculo ou relação direta com os provedores originais.
-              <br />
-              Caso algum usuário deseje remover um vídeo exibido nesta página, deverá entrar em contato diretamente com o provedor responsável pela hospedagem do conteúdo ou utilizar os serviços de remoção de indexação de buscadores como o Google. Para contato sobre questões relacionadas à exibição ou solicitação de remoção, utilize nosso canal de suporte: <a href="mailto:30tame@punkproof.com" className="underline">30tame@punkproof.com</a>.
-              <br />
-              Esta plataforma <strong>repudia veementemente</strong> qualquer prática ilegal ou criminosa, incluindo, mas não se limitando a, pornografia infantil, zoofilia, abuso sexual ou qualquer forma de exploração. Qualquer conteúdo que infrinja a legislação brasileira será removido assim que tomado conhecimento.
-              <br />
-              Todos os vídeos de fetiches apresentados neste site são <strong>100% encenados</strong> e representam apenas atuações artísticas e fictícias de práticas consensuais. É responsabilidade do usuário compreender a natureza do conteúdo.
-              <br />
-              Este site utiliza tecnologia de proteção avançada contra cópia e rastreamento indevido de conteúdo.
-            </p>
+  Ao utilizar esta plataforma, você concorda automaticamente com nossos <strong>Termos de Uso</strong> e nossa <strong>Política de Privacidade</strong>, disponíveis para leitura e aceitação. É essencial que o usuário compreenda plenamente as responsabilidades, obrigações e limitações previstas nestes documentos, sendo o acesso e uso deste site restritos apenas a maiores de 18 anos.
+  <br />
+  Esclarecemos que este site <strong>não hospeda</strong> nem armazena fisicamente qualquer vídeo. Todo o conteúdo exibido aqui provém de fontes públicas e já disponíveis na internet, como: xGroovy, PornHub, Xvideos, Xpaja, DarknessPorn, ThisVid, Erome, entre outros. Atuamos unicamente como uma plataforma que <strong>exibe diretamente</strong> estes vídeos em nossos players, sem redirecionar o usuário para as páginas de origem, e sem qualquer vínculo ou relação direta com os provedores originais.
+  <br />
+  Caso algum usuário deseje remover um vídeo exibido nesta página, deverá entrar em contato diretamente com o provedor responsável pela hospedagem do conteúdo ou utilizar os serviços de remoção de indexação de buscadores como o Google. Para contato sobre questões relacionadas à exibição ou solicitação de remoção, utilize nosso canal de suporte: <a href="mailto:30tame@punkproof.com" className="underline">30tame@punkproof.com</a>. Ressaltamos que esta plataforma <strong>não possui qualquer ingerência sobre o armazenamento ou controle de tais mídias</strong>.
+  <br />
+  Importante destacar que todos os vídeos de fetiches apresentados neste site são <strong>100% encenados</strong> e representam apenas atuações artísticas e fictícias de práticas consensuais e adultas, como Roleplay, Ageplay, BDSM, entre outras. Não é possível para esta plataforma, ou para qualquer pessoa, comprovar a veracidade ou não do conteúdo exibido, sendo responsabilidade de cada usuário avaliar e compreender a natureza dos vídeos apresentados.
+  <br />
+  Esta plataforma <strong>repudia veementemente</strong> qualquer prática ilegal ou criminosa, incluindo, mas não se limitando a, pornografia infantil, zoofilia, abuso sexual ou qualquer forma de exploração. Qualquer conteúdo que infrinja a legislação brasileira será removido assim que tomado conhecimento.
+  <br />
+  A violação de direitos autorais, bem como o acesso não autorizado, cópia ou distribuição indevida de qualquer conteúdo aqui exibido, constitui infração passível de responsabilização cível e criminal. Para proteção dos direitos autorais e integridade do material, este site adota tecnologia avançada de monitoramento e proteção de conteúdo.
+  <br />
+  Ao navegar por este site, o usuário declara ter lido, compreendido e aceitado integralmente estas condições, reconhecendo que todo o material aqui exibido é de responsabilidade exclusiva de quem o publicou originalmente, e que este ambiente tem caráter meramente de entretenimento adulto.
+</p>
           </div>
         </footer>
       </div>
