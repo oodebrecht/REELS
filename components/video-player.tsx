@@ -632,14 +632,6 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
           style={{ aspectRatio: "9/16", maxWidth: "1080px", maxHeight: "1920px" }}
         >
           {/* Loading State */}
-          {(isLoading || buffering) && (
-            <div className="absolute inset-0 flex items-center justify-center bg-black/50 z-20">
-              <div className="text-center">
-                <Loader2 className="h-8 w-8 animate-spin text-pink-500 mx-auto mb-2" />
-                <p className="text-white text-sm">{buffering ? "Carregando..." : "Preparando mídia..."}</p>
-              </div>
-            </div>
-          )}
 
           {/* Error State */}
           {loadError && (
