@@ -119,7 +119,7 @@ export default function ProductSection() {
           className="block w-full py-4 bg-gradient-to-r from-pink-600 to-purple-600 rounded-full font-bold text-white text-center flex items-center justify-center text-lg hover:from-pink-700 hover:to-purple-700 transition-all transform hover:scale-105"
         >
           <ShoppingCart className="mr-2 h-6 w-6" />
-          GARANTIR MEU ACESSO TOTAL
+          GARANTIR ACESSO
         </Link>
 
         <div className="flex items-center justify-center mt-4">
