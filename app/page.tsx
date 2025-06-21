@@ -61,19 +61,15 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-black text-white">
-      {/* Progress Indicator */}
       <ProgressIndicator />
 
-      {/* Fixed Header */}
       <header className="fixed top-0 w-full bg-black/90 backdrop-blur-sm z-50 p-4 border-b border-gray-800">
         <div className="max-w-md mx-auto flex justify-center">
           <h1 className="text-xl font-bold text-center">ZONA VIP BRASIL</h1>
         </div>
       </header>
 
-      {/* Main Content - Vertical Layout */}
       <div className="pt-16 max-w-md mx-auto">
-        {/* Headlines Section */}
         <div className="px-4 py-6 bg-gradient-to-b from-black via-gray-900 to-black">
           <div className="text-center mb-4">
             <div className="bg-gradient-to-r from-pink-500 to-purple-500 h-1 w-20 mx-auto mb-3"></div>
@@ -92,7 +88,6 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Video Player Section */}
         <div className="relative">
           <VideoPlayer
             video={videoData[currentVideoIndex]}
@@ -103,10 +98,8 @@ export default function Home() {
           />
         </div>
 
-        {/* Product Information Section */}
         <ProductSection />
 
-        {/* Footer */}
         <footer className="bg-gray-900 px-4 py-8 border-t border-gray-800">
           <div className="text-center">
             <div className="flex justify-center space-x-4 mb-4">
@@ -122,21 +115,18 @@ export default function Home() {
               <br />
               Esclarecemos que este site <strong>não hospeda</strong> nem armazena fisicamente qualquer vídeo. Todo o conteúdo exibido aqui provém de fontes públicas e já disponíveis na internet, como: xGroovy, PornHub, Xvideos, Xpaja, DarknessPorn, ThisVid, Erome, entre outros. Atuamos unicamente como uma plataforma que <strong>exibe diretamente</strong> estes vídeos em nossos players, sem redirecionar o usuário para as páginas de origem, e sem qualquer vínculo ou relação direta com os provedores originais.
               <br />
-              Caso algum usuário deseje remover um vídeo exibido nesta página, deverá entrar em contato diretamente com o provedor responsável pela hospedagem do conteúdo ou utilizar os serviços de remoção de indexação de buscadores como o Google. Para contato sobre questões relacionadas à exibição ou solicitação de remoção, utilize nosso canal de suporte: <a href="mailto:30tame@punkproof.com" className="underline">30tame@punkproof.com</a>. Ressaltamos que esta plataforma <strong>não possui qualquer ingerência sobre o armazenamento ou controle de tais mídias</strong>.
-              <br />
-              Importante destacar que todos os vídeos de fetiches apresentados neste site são <strong>100% encenados</strong> e representam apenas atuações artísticas e fictícias de práticas consensuais e adultas, como Roleplay, Ageplay, BDSM, entre outras. Não é possível para esta plataforma, ou para qualquer pessoa, comprovar a veracidade ou não do conteúdo exibido, sendo responsabilidade de cada usuário avaliar e compreender a natureza dos vídeos apresentados.
+              Caso algum usuário deseje remover um vídeo exibido nesta página, deverá entrar em contato diretamente com o provedor responsável pela hospedagem do conteúdo ou utilizar os serviços de remoção de indexação de buscadores como o Google. Para contato sobre questões relacionadas à exibição ou solicitação de remoção, utilize nosso canal de suporte: <a href="mailto:30tame@punkproof.com" className="underline">30tame@punkproof.com</a>.
               <br />
               Esta plataforma <strong>repudia veementemente</strong> qualquer prática ilegal ou criminosa, incluindo, mas não se limitando a, pornografia infantil, zoofilia, abuso sexual ou qualquer forma de exploração. Qualquer conteúdo que infrinja a legislação brasileira será removido assim que tomado conhecimento.
               <br />
-              A violação de direitos autorais, bem como o acesso não autorizado, cópia ou distribuição indevida de qualquer conteúdo aqui exibido, constitui infração passível de responsabilização cível e criminal. Para proteção dos direitos autorais e integridade do material, este site adota tecnologia avançada de monitoramento e proteção de conteúdo.
+              Todos os vídeos de fetiches apresentados neste site são <strong>100% encenados</strong> e representam apenas atuações artísticas e fictícias de práticas consensuais. É responsabilidade do usuário compreender a natureza do conteúdo.
               <br />
-              Ao navegar por este site, o usuário declara ter lido, compreendido e aceitado integralmente estas condições, reconhecendo que todo o material aqui exibido é de responsabilidade exclusiva de quem o publicou originalmente, e que este ambiente tem caráter meramente de entretenimento adulto.
+              Este site utiliza tecnologia de proteção avançada contra cópia e rastreamento indevido de conteúdo.
             </p>
           </div>
         </footer>
       </div>
 
-      {/* Enhanced Components */}
       <StickyCTA />
       <EnhancedNotifications />
       <ExitIntentModal />
