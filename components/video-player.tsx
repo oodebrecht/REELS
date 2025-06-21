@@ -623,13 +623,13 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
     <div className="relative w-full">
       {/* Video Container - TikTok Standard Size (1080x1920 - 9:16) */}
       <div
-        ref={containerRef}
-        className="relative w-full max-w-[360px] mx-auto cursor-pointer"
-        onTouchStart={onTouchStart}
-        onTouchMove={onTouchMove}
-        onTouchEnd={onTouchEnd}
-        onDoubleClick={handleDoubleClick}
-      >
+  ref={containerRef}
+  className="relative w-full max-w-[360px] mx-auto cursor-pointer"
+  onTouchStart={onTouchStart}
+  onTouchMove={onTouchMove}
+  onTouchEnd={onTouchEnd}
+  onDoubleClick={handleDoubleClick}
+>
         <div
           className="relative w-full h-[640px] sm:h-[720px] md:h-[800px] lg:h-[900px] xl:h-[1000px] overflow-hidden rounded-xl bg-black shadow-2xl"
           style={{ aspectRatio: "9/16", maxWidth: "1080px", maxHeight: "1920px" }}
