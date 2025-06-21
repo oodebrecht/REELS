@@ -71,7 +71,7 @@ export const videoData = [
     description: "Mão amiga no banheiro, comendo o amigo, incestos, e muito mais conteudo gay na ZONA VIP BRASIL",
     views: "14.2k",
     thumbnail: "/giphy.gif",
-    videoUrl: "https://v74.erome.com/4287/yVvlLnZs/bIMunplR_720p.mp4",
+    videoUrl: "https://v206.erome.com/4018/Y1EUEUzH/v8WgjvNd_720p.mp4",
     duration: "19:10",
   },
 ]
