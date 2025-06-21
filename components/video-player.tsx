@@ -625,9 +625,6 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
       <div
   ref={containerRef}
   className="relative w-full max-w-[360px] mx-auto cursor-pointer"
-  onTouchStart={onTouchStart}
-  onTouchMove={onTouchMove}
-  onTouchEnd={onTouchEnd}
   onDoubleClick={handleDoubleClick}
 >
         <div
