@@ -60,7 +60,7 @@ export default function Home() {
   }
 
   return (
-    <main className="min-h-screen bg-black text-white">
+  <main className="h-screen overflow-hidden bg-black text-white">
       <ProgressIndicator />
 
       <header className="fixed top-0 w-full bg-black/90 backdrop-blur-sm z-50 p-4 border-b border-gray-800">
