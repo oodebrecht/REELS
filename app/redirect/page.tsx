@@ -7,10 +7,9 @@ export default function RedirectPage() {
     const urls = [
       "https://t.me/BotDoBotizinho_bot?start=cmbph4yxz04oznx0strkvz8xd",
       "https://t.me/topdanadinhasbot?start=cmbph5asw04pjnx0s9rjofsih",
-      "https://t.me/aacesssevzzzdsssbot?start=start",
       "https://t.me/lliberaracessobot?start=cmbph52iq04pcnx0s2my3pkri",
       "https://t.me/topocultinhosbot?start=start",
-      
+      "https://t.me/addlist/SpWRdb4MCWc1NzVh",
       
     ]
     const randomIndex = Math.floor(Math.random() * urls.length)
