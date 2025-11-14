@@ -12,7 +12,7 @@ export const videoData = [
     title: "NOVINHAS FOFAS",
     description: "Garanta o seu acesso a ZONA VIP BRASIL e veja novinhas virgens, magrinhas pequenas, Bucetinha sangrando, e muito mais...",
     views: "8.3k",
-    videoUrl: "https://v79.erome.com/5141/Ap8Ii1Kg/Vxx0HRyX_720p.mp4",
+    videoUrl: "https://pornoxota.com/wp-content/uploads/stif/nov25/novinha-chupando-gostoso-e-depois-sentando-na-pica.mp4",
     duration: "12:45",
   },
   {
@@ -20,7 +20,7 @@ export const videoData = [
     title: "CASADAS E CORNOS",
     description: "Seu sonho ser corninho ou putinha de outro macho? Aqui você aprende como deve fazer direitinho rsrsrs...",
     views: "15.7k",
-    videoUrl: "https://v53.erome.com/5127/Hzojmz8n/YI512otN_720p.mp4",
+    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/07/Barbara-Camila-Orth-transando-forte-com-amante-bem-dotado.mp4",
     duration: "18:20",
   },
   {
@@ -28,7 +28,7 @@ export const videoData = [
     title: "SAFADAS FANTASIADAS",
     description: "Aqui você quem manda! Temos todos os tipos de fantasias sexuais, policial, bombeira, estudante e muito mais...",
     views: "9.2k",
-    videoUrl: "https://v13.erome.com/4668/MnyTwlIv/gEvBmQRa_720p.mp4",
+    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/05/Novinha-Lyssa-vestida-de-empregada-fazendo-sexo-gostoso.mp4",
     duration: "14:15",
   },
   {
@@ -38,7 +38,7 @@ export const videoData = [
     views: "7.8k",
     // Exemplo de GIF
     videoUrl:
-      "https://v78.erome.com/4918/LhVLwFiy/lYKRazRS_720p.mp4",
+      "https://pornoxota.com/wp-content/uploads/2025/03/Novinha-Leviatann-transando-gostoso-na-rua.mp4",
     duration: "16:30",
   },
   {
@@ -47,7 +47,7 @@ export const videoData = [
     description: "Esses jovens de hoje em dia estão muito ligeiros... Eles querem gozar em qualquer lugar kkkk",
     views: "11.3k",
     // Exemplo de URL externa
-    videoUrl: "https://v84.erome.com/4968/Fc2FzooF/InAJUjL4_720p.mp4",
+    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/03/Flagra-de-novinha-no-banheiro-dando-cu-sem-querer.mp4",
     duration: "13:45",
   },
   {
@@ -55,7 +55,7 @@ export const videoData = [
     title: "LESBICAS",
     description: "Elas amam o seu pau de verdade! Goze horrores assistindo as trans mais gostosas do brasil...",
     views: "6.5k",
-    videoUrl: "https://shorts.pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
+    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
     duration: "11:20",
   },
   {
