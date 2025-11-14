@@ -36,7 +36,6 @@ export const videoData = [
     title: "SEXO EM PÚBLICO",
     description: "Imagine cantar uma mulher na rua e ela se abrir assim pra você? Um sonho ou/e realidade?",
     views: "7.8k",
-    // Exemplo de GIF
     videoUrl:
       "https://pornoxota.com/wp-content/uploads/2025/03/Novinha-Leviatann-transando-gostoso-na-rua.mp4",
     duration: "16:30",
@@ -46,7 +45,6 @@ export const videoData = [
     title: "PEGUEI NO FLAGRA",
     description: "Esses jovens de hoje em dia estão muito ligeiros... Eles querem gozar em qualquer lugar kkkk",
     views: "11.3k",
-    // Exemplo de URL externa
     videoUrl: "https://pornoxota.com/wp-content/uploads/2025/03/Flagra-de-novinha-no-banheiro-dando-cu-sem-querer.mp4",
     duration: "13:45",
   },
@@ -63,7 +61,7 @@ export const videoData = [
     title: "TRANS GOSTOSAS",
     description: "Elas amam o seu pau de verdade! Goze horrores assistindo as trans mais gostosas do brasil...",
     views: "6.5k",
-    videoUrl: "https://v101.erome.com/4033/R2U6pFGu/CI224FR1_720p.mp4",
+    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
     duration: "11:20",
   },
   {
@@ -71,7 +69,7 @@ export const videoData = [
     title: "GAYS PAUZUDOS",
     description: "Mão amiga no banheiro, comendo o amigo, incestos, e muito mais conteudo gay na ZONA VIP BRASIL",
     views: "14.2k",
-    videoUrl: "https://v108.erome.com/4018/JEfeznmO/9LETRPEe_720p.mp4",
+    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
     duration: "19:10",
   },
 ]
