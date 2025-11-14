@@ -61,7 +61,7 @@ export const videoData = [
     title: "TRANS GOSTOSAS",
     description: "Elas amam o seu pau de verdade! Goze horrores assistindo as trans mais gostosas do brasil...",
     views: "6.5k",
-    videoUrl: "https://xossipy.com/get_file/0486f42efaa381f1dea83dc20e43103f/98584.mp4/",
+    videoUrl: "https://cdnmedia.shemaletubevideos.com/flv/0005/362923/1080p.mp4",
     duration: "11:20",
   },
   {
