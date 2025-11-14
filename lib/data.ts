@@ -69,7 +69,7 @@ export const videoData = [
     title: "GAYS PAUZUDOS",
     description: "Mão amiga no banheiro, comendo o amigo, incestos, e muito mais conteudo gay na ZONA VIP BRASIL",
     views: "14.2k",
-    videoUrl: "https://s312.pornone.com/vid2/vGJ_zr2wrrqQbVZzGyuhvA/1763162649/5/279879805/279879805_720x406_500k.mp4",
+    videoUrl: "https://ip386071504.ahcdn.com/key=eIHO5TKKe7xh3vQCkXJKdA,s=,end=1763195882/state=aRevgMkf/buffer=1310439:1076727,356.0/speed=262088/reftag=317392000/51/3711/5/432032835/b/3384000/3384963/3384963.mp4",
     duration: "19:10",
   },
 ]
