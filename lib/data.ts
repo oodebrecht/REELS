@@ -51,7 +51,7 @@ export const videoData = [
   {
     id: "video7",
     title: "LESBICAS",
-    description: "Elas amam o seu pau de verdade! Goze horrores assistindo as trans mais gostosas do brasil...",
+    description: "Viciadas em buceta! Bata uma siririca ou punheta assistindo as lesbicas mais gostosas do brasil...",
     views: "6.5k",
     videoUrl: "https://shorts.pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
     duration: "11:20",
@@ -61,7 +61,7 @@ export const videoData = [
     title: "TRANS GOSTOSAS",
     description: "Elas amam o seu pau de verdade! Goze horrores assistindo as trans mais gostosas do brasil...",
     views: "6.5k",
-    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
+    videoUrl: "https://xossipy.com/get_file/0486f42efaa381f1dea83dc20e43103f/98584.mp4/",
     duration: "11:20",
   },
   {
@@ -69,7 +69,7 @@ export const videoData = [
     title: "GAYS PAUZUDOS",
     description: "Mão amiga no banheiro, comendo o amigo, incestos, e muito mais conteudo gay na ZONA VIP BRASIL",
     views: "14.2k",
-    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
+    videoUrl: "https://xossipy.com/get_file/0486f42efaa381f1dea83dc20e43103f/281122.mp4/",
     duration: "19:10",
   },
 ]
