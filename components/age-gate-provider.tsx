@@ -7,7 +7,7 @@ import {
   useContext,
   type ReactNode,
 } from "react"
-import AgeVerificationModal from "@/components/age-verification-modall"
+import AgeVerificationModal from "@/components/age-verification-modal"
 
 interface AgeGateContextType {
   isVerified: boolean
