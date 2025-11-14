@@ -4,7 +4,7 @@ export const videoData = [
     title: "INCESTOS RAROS 2025",
     description: "Esses vídeos você não acha em qualquer lugar! São os melhores vídeos de incestos do BRASIL. Tudo organizado por categorias, pronto para você assistir. Nada de prévias, pagou acessou um conteudo completo de até 20 minutos de duração...",
     views: "12.5k",
-    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/07/Xvideosincesto-com-irma-mamando-gostoso-na-piroca.mp4",
+    videoUrl: "https://shorts.pornoxota.com/wp-content/uploads/2025/07/Xvideosincesto-com-irma-mamando-gostoso-na-piroca.mp4",
     duration: "15:30",
   },
   {
