@@ -661,7 +661,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
             </div>
           )}
 
-          {/* Video Element - Only render if not a GIF */}
+                    {/* Video Element - Only render if not a GIF */}
           {!isGif && (
             <video
               ref={videoRef}
@@ -669,6 +669,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
               poster={generatedThumbnail || video.thumbnail}
               loop
               playsInline
+              preload="metadata"
               onLoadedData={handleVideoLoad}
               onCanPlay={handleCanPlay}
               onError={handleVideoError}
@@ -677,13 +678,11 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
               onPlaying={() => setBuffering(false)}
               controls={false}
             >
-              {/* Multiple sources for better compatibility */}
               <source src={getVideoUrl()} type="video/mp4" />
-              <source src={getVideoUrl()} type="video/webm" />
-              <source src={fallbackVideoUrl} type="video/mp4" />
               Seu navegador não suporta vídeo HTML5.
             </video>
           )}
+
 
           {/* Transparent Play Button Overlay */}
           {!isPlaying && (
