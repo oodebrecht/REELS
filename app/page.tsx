@@ -68,7 +68,7 @@ export default function Home() {
               <Play className="h-4 w-4 text-gray-300 mr-2" />
               <p className="text-gray-300 text-sm md:text-base">Prévia gratuita de 1 minuto</p>
             </div>
-            <p className="text-pink-400 text-sm font-bold">ZONA VIP BRASIL: Tudo Dividido Por Categorias!</p>
+            <p className="text-red-400 text-sm font-bold">ZONA VIP BRASIL: Tudo Dividido Por Categorias!</p>
           </div>
         </div>
 
