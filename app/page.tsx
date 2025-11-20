@@ -12,13 +12,8 @@ import { Play } from "lucide-react"
 
 export default function Home() {
   const [currentVideoIndex, setCurrentVideoIndex] = useState(0)
-  const [isLoading, setIsLoading] = useState(true)
 
   useEffect(() => {
-    const timeout = setTimeout(() => {
-      setIsLoading(false)
-    }, 2000)
-
     const handleContextMenu = (e: MouseEvent) => e.preventDefault()
     const handleKeyDown = (e: KeyboardEvent) => {
       if (
@@ -34,11 +29,11 @@ export default function Home() {
     document.addEventListener("keydown", handleKeyDown)
 
     return () => {
-      clearTimeout(timeout)
       document.removeEventListener("contextmenu", handleContextMenu)
       document.removeEventListener("keydown", handleKeyDown)
     }
   }, [])
+  
 
   const nextVideo = () => {
     setCurrentVideoIndex((prev) => (prev + 1) % videoData.length)
