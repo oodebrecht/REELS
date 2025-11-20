@@ -55,7 +55,7 @@ export default function ProductSection() {
 
         <div className="space-y-4">
           <div className="flex items-start bg-gray-800/50 p-4 rounded-xl">
-            <div className="bg-gradient-to-r from-pink-600 to-purple-600 p-2 rounded-lg mr-3 flex-shrink-0">
+            <div className="bg-gradient-to-r from-yellow-600 to-red-600 p-2 rounded-lg mr-3 flex-shrink-0">
               <Check className="h-5 w-5 text-white" />
             </div>
             <div>
@@ -67,7 +67,7 @@ export default function ProductSection() {
           </div>
 
           <div className="flex items-start bg-gray-800/50 p-4 rounded-xl">
-            <div className="bg-gradient-to-r from-pink-600 to-purple-600 p-2 rounded-lg mr-3 flex-shrink-0">
+            <div className="bg-gradient-to-r from-yellow-600 to-red-600 p-2 rounded-lg mr-3 flex-shrink-0">
               <Clock className="h-5 w-5 text-white" />
             </div>
             <div>
@@ -77,7 +77,7 @@ export default function ProductSection() {
           </div>
 
           <div className="flex items-start bg-gray-800/50 p-4 rounded-xl">
-            <div className="bg-gradient-to-r from-pink-600 to-purple-600 p-2 rounded-lg mr-3 flex-shrink-0">
+            <div className="bg-gradient-to-r from-yellow-600 to-red-600 p-2 rounded-lg mr-3 flex-shrink-0">
               <Users className="h-5 w-5 text-white" />
             </div>
             <div>
@@ -87,7 +87,7 @@ export default function ProductSection() {
           </div>
 
           <div className="flex items-start bg-gray-800/50 p-4 rounded-xl">
-            <div className="bg-gradient-to-r from-pink-600 to-purple-600 p-2 rounded-lg mr-3 flex-shrink-0">
+            <div className="bg-gradient-to-r from-yellow-600 to-red-600 p-2 rounded-lg mr-3 flex-shrink-0">
               <Gift className="h-5 w-5 text-white" />
             </div>
             <div>
@@ -116,7 +116,7 @@ export default function ProductSection() {
 
         <Link
           href="/redirect"
-          className="block w-full py-4 bg-gradient-to-r from-pink-600 to-purple-600 rounded-full font-bold text-white text-center flex items-center justify-center text-lg hover:from-pink-700 hover:to-purple-700 transition-all transform hover:scale-105"
+          className="block w-full py-4 bg-gradient-to-r from-yellow-600 to-red-600 rounded-full font-bold text-white text-center flex items-center justify-center text-lg hover:from-yellow-700 hover:to-red-700 transition-all transform hover:scale-105"
         >
           <ShoppingCart className="mr-2 h-6 w-6" />
           GARANTIR ACESSO
