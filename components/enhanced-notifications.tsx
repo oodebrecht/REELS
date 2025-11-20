@@ -39,37 +39,37 @@ export default function EnhancedNotifications() {
       type: "viewing",
       icon: Eye,
       color: "bg-blue-600",
-      message: `${formatNumber(activeUsers)} pessoas assistindo agora`,
+      message: `${formatNumber(activeUsers)} Pessoas Assistindo Agora`,
     },
     {
       type: "trending",
       icon: TrendingUp,
       color: "bg-red-600",
-      message: "Conteúdo em alta: 89% de aprovação",
+      message: "4 Novos Membros Entraram para a Zona Vip Brasil",
     },
     {
       type: "limited",
       icon: Zap,
       color: "bg-orange-600",
-      message: "Restam apenas 18 vagas com desconto",
+      message: "Restam Apenas 18 Vagas com Desconto",
     },
     {
       type: "activity",
       icon: Users,
       color: "bg-yellow-600",
-      message: "Pico de atividade: +156% de acessos hoje",
+      message: "51 Acessos Liberados Até Agora",
     },
     {
       type: "recent",
       icon: Clock,
       color: "bg-indigo-600",
-      message: "3 novos acessos nos últimos 5 minutos",
+      message: "8.457 Novos Acessos nos Últimos 3 Dias",
     },
     {
       type: "secure",
       icon: Shield,
       color: "bg-gray-600",
-      message: "Acesso 100% anônimo e seguro",
+      message: "Acesso 100% Anônimo e Seguro",
     },
   ]
 
