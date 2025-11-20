@@ -53,11 +53,11 @@ export default function ExitIntentModal() {
         </button>
 
         <div className="mb-6">
-          <Gift className="h-12 w-12 mx-auto text-pink-500 mb-3" />
+          <Gift className="h-12 w-12 mx-auto text-yellow-500 mb-3" />
           <h3 className="text-2xl font-bold mb-2 text-white">Espere! Oferta Especial!</h3>
           <p className="text-gray-300 text-sm leading-relaxed">
             Antes de sair, que tal garantir seu acesso vitalicio com{" "}
-            <span className="text-pink-400 font-bold">75% de desconto</span>?
+            <span className="text-yellow-400 font-bold">75% de desconto</span>?
           </p>
         </div>
 
@@ -73,7 +73,7 @@ export default function ExitIntentModal() {
         <div className="space-y-3">
           <Link
             href="/redirect"
-            className="block w-full py-3 bg-gradient-to-r from-pink-600 to-purple-600 rounded-full font-bold text-white hover:from-pink-700 hover:to-purple-700 transition-all"
+            className="block w-full py-3 bg-gradient-to-r from-yellow-600 to-red-600 rounded-full font-bold text-white hover:from-yellow-700 hover:to-red-700 transition-all"
           >
             APROVEITAR DESCONTO EXTRA
           </Link>
