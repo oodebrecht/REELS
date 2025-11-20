@@ -714,7 +714,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
             <p className="text-white/80 text-sm line-clamp-2">{video.description}</p>
             <div className="flex items-center mt-2">
               <div className="bg-white/20 text-white text-xs px-2 py-1 rounded-full">{video.views} visualizações</div>
-              <div className="bg-pink-500/20 text-pink-500 text-xs px-2 py-1 rounded-full ml-2">{video.duration}</div>
+              <div className="bg-yellow-500/20 text-yellow-500 text-xs px-2 py-1 rounded-full ml-2">{video.duration}</div>
             </div>
           </div>
 
@@ -739,13 +739,13 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
                     <Play className="h-4 w-4 mr-2" />
                     <span>Prévia Gratuita</span>
                   </span>
-                  <span className="text-pink-400 font-bold text-lg">
+                  <span className="text-yellow-400 font-bold text-lg">
                     {formatTime(PREVIEW_TIME - currentTime)} restantes
                   </span>
                 </div>
                 <div className="w-full bg-gray-700 h-4 rounded-full overflow-hidden progress-bar shadow-inner">
                   <div
-                    className="bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500 h-full transition-all duration-1000 rounded-full animate-gradient shadow-lg"
+                    className="bg-gradient-to-r from-yellow-500 via-purple-500 to-yellow-500 h-full transition-all duration-1000 rounded-full animate-gradient shadow-lg"
                     style={{ width: `${progressPercentage}%` }}
                   ></div>
                 </div>
@@ -766,14 +766,14 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
           {hasWatchedPreview && (
             <div className="absolute inset-0 bg-black/90 backdrop-blur-sm flex items-center justify-center z-30">
               <div className="text-center p-8 animate-in zoom-in duration-500">
-                <Lock className="h-20 w-20 mx-auto text-pink-500 mb-6 animate-pulse" />
+                <Lock className="h-20 w-20 mx-auto text-yellow-500 mb-6 animate-pulse" />
                 <h3 className="text-2xl font-bold mb-3 text-white">Tempo Gratuito Esgotado</h3>
                 <p className="text-gray-300 text-base mb-8 leading-relaxed">
                   Você já assistiu a prévia gratuita deste vídeo! Adquira a ZONA VIP BRASIL para continuar assistindo... São mais de 20 Mil Vídeos Completos prontos para assistir!
                 </p>
                 <Link
                   href="/redirect"
-                  className="inline-block px-8 py-4 bg-gradient-to-r from-pink-600 to-purple-600 rounded-full font-bold text-white hover:from-pink-700 hover:to-purple-700 transition-all transform hover:scale-105 shadow-xl text-lg"
+                  className="inline-block px-8 py-4 bg-gradient-to-r from-yellow-600 to-purple-600 rounded-full font-bold text-white hover:from-yellow-700 hover:to-purple-700 transition-all transform hover:scale-105 shadow-xl text-lg"
                 >
                   DESBLOQUEAR ACESSO
                 </Link>
@@ -802,7 +802,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
                 </button>
 
                 <div className="mb-6">
-                  <Lock className="h-12 w-12 mx-auto text-pink-500 mb-3 animate-pulse" />
+                  <Lock className="h-12 w-12 mx-auto text-yellow-500 mb-3 animate-pulse" />
                   <h3 className="text-lg font-bold mb-2 text-white">Tempo Esgotado!</h3>
                   <p className="text-gray-300 text-sm leading-relaxed">
                     Prévia gratuita deste vídeo finalizada. Desbloqueie para continuar assistindo.
@@ -812,7 +812,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
                 <div className="space-y-3">
                   <Link
                     href="/redirect"
-                    className="block w-full py-3 bg-gradient-to-r from-pink-600 to-purple-600 rounded-full font-bold text-white hover:from-pink-700 hover:to-purple-700 transition-all transform hover:scale-105 shadow-xl text-sm"
+                    className="block w-full py-3 bg-gradient-to-r from-yellow-600 to-purple-600 rounded-full font-bold text-white hover:from-yellow-700 hover:to-purple-700 transition-all transform hover:scale-105 shadow-xl text-sm"
                   >
                     DESBLOQUEAR ACESSO
                   </Link>
@@ -857,7 +857,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
           </button>
 
           {/* Contador de vídeos */}
-          <div className="bg-gradient-to-r from-pink-600/80 to-purple-600/80 backdrop-blur-md px-3 py-2 rounded-full text-xs text-center text-white font-bold shadow-xl border border-white/20">
+          <div className="bg-gradient-to-r from-yellow-600/80 to-purple-600/80 backdrop-blur-md px-3 py-2 rounded-full text-xs text-center text-white font-bold shadow-xl border border-white/20">
             {currentIndex !== undefined && `${currentIndex + 1}/${totalVideos}`}
           </div>
 
