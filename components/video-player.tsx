@@ -745,7 +745,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
                 </div>
                 <div className="w-full bg-gray-700 h-4 rounded-full overflow-hidden progress-bar shadow-inner">
                   <div
-                    className="bg-gradient-to-r from-yellow-500 via-purple-500 to-yellow-500 h-full transition-all duration-1000 rounded-full animate-gradient shadow-lg"
+                    className="bg-gradient-to-r from-yellow-500 via-red-500 to-yellow-500 h-full transition-all duration-1000 rounded-full animate-gradient shadow-lg"
                     style={{ width: `${progressPercentage}%` }}
                   ></div>
                 </div>
@@ -773,7 +773,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
                 </p>
                 <Link
                   href="/redirect"
-                  className="inline-block px-8 py-4 bg-gradient-to-r from-yellow-600 to-purple-600 rounded-full font-bold text-white hover:from-yellow-700 hover:to-purple-700 transition-all transform hover:scale-105 shadow-xl text-lg"
+                  className="inline-block px-8 py-4 bg-gradient-to-r from-yellow-600 to-red-600 rounded-full font-bold text-white hover:from-yellow-700 hover:to-red-700 transition-all transform hover:scale-105 shadow-xl text-lg"
                 >
                   DESBLOQUEAR ACESSO
                 </Link>
@@ -812,7 +812,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
                 <div className="space-y-3">
                   <Link
                     href="/redirect"
-                    className="block w-full py-3 bg-gradient-to-r from-yellow-600 to-purple-600 rounded-full font-bold text-white hover:from-yellow-700 hover:to-purple-700 transition-all transform hover:scale-105 shadow-xl text-sm"
+                    className="block w-full py-3 bg-gradient-to-r from-yellow-600 to-red-600 rounded-full font-bold text-white hover:from-yellow-700 hover:to-red-700 transition-all transform hover:scale-105 shadow-xl text-sm"
                   >
                     DESBLOQUEAR ACESSO
                   </Link>
@@ -857,7 +857,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
           </button>
 
           {/* Contador de vídeos */}
-          <div className="bg-gradient-to-r from-yellow-600/80 to-purple-600/80 backdrop-blur-md px-3 py-2 rounded-full text-xs text-center text-white font-bold shadow-xl border border-white/20">
+          <div className="bg-gradient-to-r from-yellow-600/80 to-red-600/80 backdrop-blur-md px-3 py-2 rounded-full text-xs text-center text-white font-bold shadow-xl border border-white/20">
             {currentIndex !== undefined && `${currentIndex + 1}/${totalVideos}`}
           </div>
 
