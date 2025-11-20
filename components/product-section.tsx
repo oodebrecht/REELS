@@ -124,7 +124,7 @@ export default function ProductSection() {
 
         <div className="flex items-center justify-center mt-4">
           <Shield className="h-4 w-4 text-green-500 mr-2" />
-          <span className="text-green-500 text-sm font-medium">Garantia de 7 dias ou seu dinheiro de volta</span>
+          <span className="text-green-500 text-sm font-medium">7 Dias De Garantia</span>
         </div>
       </div>
 
