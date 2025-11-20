@@ -44,7 +44,7 @@ export default function EnhancedNotifications() {
     {
       type: "trending",
       icon: TrendingUp,
-      color: "bg-purple-600",
+      color: "bg-red-600",
       message: "Conteúdo em alta: 89% de aprovação",
     },
     {
@@ -56,7 +56,7 @@ export default function EnhancedNotifications() {
     {
       type: "activity",
       icon: Users,
-      color: "bg-pink-600",
+      color: "bg-yellow-600",
       message: "Pico de atividade: +156% de acessos hoje",
     },
     {
