@@ -65,11 +65,11 @@ const config: Config = {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
-        yellow: {
+        pink: {
           500: "#ec4899",
           600: "#db2777",
         },
-        red: {
+        purple: {
           500: "#a855f7",
           600: "#9333ea",
           900: "#581c87",
