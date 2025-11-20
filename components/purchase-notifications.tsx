@@ -40,8 +40,8 @@ export default function PurchaseNotifications() {
     },
     {
       icon: TrendingUp,
-      color: "bg-purple-600",
-      message: "Atividade em alta - +127% hoje",
+      color: "bg-red-600",
+      message: "Resta Apenas 12 vagas hoje",
     },
     {
       icon: Zap,
@@ -50,7 +50,7 @@ export default function PurchaseNotifications() {
     },
     {
       icon: Eye,
-      color: "bg-pink-600",
+      color: "bg-yellow-600",
       message: "Novo conteúdo sendo assistido",
     },
     {
