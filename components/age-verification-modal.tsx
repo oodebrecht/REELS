@@ -41,7 +41,7 @@ export default function AgeVerificationModal({ onVerify }: AgeVerificationModalP
   <div className="flex items-center justify-center mb-2">
     <AlertTriangle className="h-4 w-4 text-red-300 mr-2" />
     <p className="text-red-300 text-[10px] font-medium tracking-tight uppercase">
-      Conteúdo restrito para maiores de 18 anos
+      Conteúdo restrito
     </p>
           </div>
           <p className="text-gray-300 text-sm leading-relaxed">
