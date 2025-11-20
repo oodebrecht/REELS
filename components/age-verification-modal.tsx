@@ -42,6 +42,7 @@ export default function AgeVerificationModal({ onVerify }: AgeVerificationModalP
     <AlertTriangle className="h-4 w-4 text-red-300 mr-2" />
     <p className="text-red-300 text-[10px] font-medium tracking-tight uppercase">
       Conteúdo restrito
+      <div className="bg-red-900/30 border border-red-700 rounded-xl p-4 mb-6">
     </p>
           </div>
           <p className="text-gray-300 text-sm leading-relaxed">
