@@ -27,7 +27,7 @@ const plans = [
     popular: true,
     duration: "30 dias de acesso",
     badge: "MAIS POPULAR",
-    color: "from-pink-600 to-purple-600",
+    color: "from-yellow-600 to-red-600",
   },
   {
     id: "lifetime",
@@ -123,7 +123,7 @@ export default function Checkout() {
               key={plan.id}
               className={`border rounded-xl p-4 cursor-pointer transition-all duration-300 ${
                 selectedPlan === plan.id
-                  ? "border-pink-500 bg-gradient-to-br from-purple-900/30 to-pink-900/30 shadow-lg shadow-pink-500/20"
+                  ? "border-yellow-500 bg-gradient-to-br from-red-900/30 to-yellow-900/30 shadow-lg shadow-yellow-500/20"
                   : "border-gray-800 bg-gray-900/30 hover:border-gray-700"
               } ${plan.popular ? "relative" : ""}`}
               onClick={() => setSelectedPlan(plan.id)}
@@ -174,7 +174,7 @@ export default function Checkout() {
                   onClick={() => setSelectedPayment(method.id)}
                   className={`p-4 rounded-xl border transition-all duration-300 ${
                     selectedPayment === method.id
-                      ? "border-pink-500 bg-pink-900/20"
+                      ? "border-yellow-500 bg-yellow-900/20"
                       : "border-gray-700 bg-gray-800/50 hover:border-gray-600"
                   }`}
                 >
@@ -210,7 +210,7 @@ export default function Checkout() {
             </div>
             <div className="border-t border-gray-700 pt-3 flex justify-between items-center font-bold text-lg">
               <span>Total</span>
-              <span className="text-pink-400">{selectedPlanData.price}</span>
+              <span className="text-yellow-400">{selectedPlanData.price}</span>
             </div>
           </div>
         )}
@@ -221,7 +221,7 @@ export default function Checkout() {
           className={`w-full py-4 rounded-full font-bold text-white text-lg transition-all duration-300 ${
             isProcessing
               ? "bg-gray-600 cursor-not-allowed"
-              : "bg-gradient-to-r from-pink-600 to-purple-600 hover:from-pink-700 hover:to-purple-700 transform hover:scale-105 shadow-lg"
+              : "bg-gradient-to-r from-yellow-600 to-red-600 hover:from-yellow-700 hover:to-red-700 transform hover:scale-105 shadow-lg"
           }`}
         >
           {isProcessing ? (
