@@ -27,7 +27,7 @@ export default function StickyCTA() {
 
   return (
     <div className="fixed bottom-4 left-4 right-4 z-50 max-w-md mx-auto">
-      <div className="bg-gradient-to-r from-pink-600 to-purple-600 p-4 rounded-2xl shadow-2xl border border-pink-500/20 animate-in slide-in-from-bottom duration-500">
+      <div className="bg-gradient-to-r from-yellow-600 to-red-600 p-4 rounded-2xl shadow-2xl border border-yellow-500/20 animate-in slide-in-from-bottom duration-500">
         <button
           onClick={() => setIsDismissed(true)}
           className="absolute top-2 right-2 text-white/70 hover:text-white"
@@ -47,7 +47,7 @@ export default function StickyCTA() {
 
           <Link
             href="/redirect"
-            className="bg-white text-pink-600 px-4 py-2 rounded-full font-bold text-sm flex items-center hover:bg-gray-100 transition-all transform hover:scale-105"
+            className="bg-white text-yellow-600 px-4 py-2 rounded-full font-bold text-sm flex items-center hover:bg-gray-100 transition-all transform hover:scale-105"
           >
             <ShoppingCart className="h-4 w-4 mr-1" />
             COMPRAR
