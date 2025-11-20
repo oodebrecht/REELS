@@ -56,14 +56,14 @@ export default function Home() {
       <div className="pt-16 max-w-md mx-auto">
         <div className="px-4 py-6 bg-gradient-to-b from-black via-gray-900 to-black">
           <div className="text-center mb-4">
-            <div className="bg-gradient-to-r from-pink-500 to-purple-500 h-1 w-20 mx-auto mb-3"></div>
+            <div className="bg-gradient-to-r from-yellow-400 to-purple-500 h-1 w-20 mx-auto mb-3"></div>
             <h1 className="text-2xl md:text-3xl font-extrabold text-white leading-tight mb-2">
               CONTEÚDO EXCLUSIVO E
-              <span className="block bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent">
+              <span className="block bg-gradient-to-r from-yellow-400 to-purple-500 bg-clip-text text-transparent">
                 100% ANÔNIMO
               </span>
             </h1>
-            <div className="bg-gradient-to-r from-pink-500 to-purple-500 h-1 w-32 mx-auto mb-4"></div>
+            <div className="bg-gradient-to-r from-yellow-400 to-purple-500 h-1 w-32 mx-auto mb-4"></div>
             <div className="flex items-center justify-center mb-2">
               <Play className="h-4 w-4 text-gray-300 mr-2" />
               <p className="text-gray-300 text-sm md:text-base">Prévia gratuita de 1 minuto</p>
