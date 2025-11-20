@@ -113,8 +113,8 @@ export default function Home() {
         </footer>
       </div>
 
-      <StickyCTA />
-      <EnhancedNotifications />
+            <StickyCTA />
+      {/* <EnhancedNotifications /> */}
       <ExitIntentModal />
     </main>
   )
