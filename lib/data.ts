@@ -4,7 +4,7 @@ export const videoData = [
     title: "INCESTOS RAROS 2025",
     description: "Esses vídeos você não acha em qualquer lugar! São os melhores vídeos de incestos do BRASIL. Tudo organizado por categorias, pronto para você assistir. Nada de prévias, pagou acessou um conteudo completo de até 20 minutos de duração...",
     views: "12.5k",
-    videoUrl: "https://shorts.pornoxota.com/wp-content/uploads/2025/07/Xvideosincesto-com-irma-mamando-gostoso-na-piroca.mp4",
+    videoUrl: "https://zonavipbr.pro/saturn/16aa7e21aadaa.mp4",
     duration: "15:30",
   },
   {
@@ -12,7 +12,7 @@ export const videoData = [
     title: "NOVINHAS FOFAS",
     description: "Garanta o seu acesso a ZONA VIP BRASIL e veja novinhas virgens, magrinhas pequenas, Bucetinha sangrando, e muito mais...",
     views: "8.3k",
-    videoUrl: "https://shorts.pornoxota.com/wp-content/uploads/stif/nov25/novinha-chupando-gostoso-e-depois-sentando-na-pica.mp4",
+    videoUrl: "https://zonavipbr.pro/saturn/26aa7e21aadaa.mp4",
     duration: "12:45",
   },
   {
@@ -20,7 +20,7 @@ export const videoData = [
     title: "CASADAS E CORNOS",
     description: "Seu sonho ser corninho ou putinha de outro macho? Aqui você aprende como deve fazer direitinho rsrsrs...",
     views: "15.7k",
-    videoUrl: "https://shorts.pornoxota.com/wp-content/uploads/2025/07/Barbara-Camila-Orth-transando-forte-com-amante-bem-dotado.mp4",
+    videoUrl: "https://zonavipbr.pro/saturn/36aa7e21aadaa.mp4",
     duration: "18:20",
   },
   {
@@ -28,7 +28,7 @@ export const videoData = [
     title: "SAFADAS FANTASIADAS",
     description: "Aqui você quem manda! Temos todos os tipos de fantasias sexuais, policial, bombeira, estudante e muito mais...",
     views: "9.2k",
-    videoUrl: "https://shorts.pornoxota.com/wp-content/uploads/2025/05/Novinha-Lyssa-vestida-de-empregada-fazendo-sexo-gostoso.mp4",
+    videoUrl: "https://zonavipbr.pro/saturn/46aa7e21aadaa.mp4",
     duration: "14:15",
   },
   {
@@ -37,7 +37,7 @@ export const videoData = [
     description: "Imagine cantar uma mulher na rua e ela se abrir assim pra você? Um sonho ou/e realidade?",
     views: "7.8k",
     videoUrl:
-      "https://shorts.pornoxota.com/wp-content/uploads/2025/03/Novinha-Leviatann-transando-gostoso-na-rua.mp4",
+      "https://zonavipbr.pro/saturn/56aa7e21aadaa.mp4",
     duration: "16:30",
   },
   {
@@ -45,7 +45,7 @@ export const videoData = [
     title: "PEGUEI NO FLAGRA",
     description: "Esses jovens de hoje em dia estão muito ligeiros... Eles querem gozar em qualquer lugar kkkk",
     views: "11.3k",
-    videoUrl: "https://videos.naoconto.com/pegos-no-flagra-homem-transando-com-coroa-gostosa-e-o-viado-no-beco-46546546.mp4",
+    videoUrl: "https://zonavipbr.pro/saturn/66aa7e21aadaa.mp4",
     duration: "13:45",
   },
   {
@@ -53,7 +53,7 @@ export const videoData = [
     title: "LESBICAS",
     description: "Viciadas em buceta! Bata uma siririca ou punheta assistindo as lesbicas mais gostosas do brasil...",
     views: "6.5k",
-    videoUrl: "https://shorts.pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
+    videoUrl: "https://zonavipbr.pro/saturn/76aa7e21aadaa.mp4",
     duration: "11:20",
   },
   {
@@ -61,7 +61,7 @@ export const videoData = [
     title: "TRANS GOSTOSAS",
     description: "Elas amam o seu pau de verdade! Goze horrores assistindo as trans mais gostosas...",
     views: "6.5k",
-    videoUrl: "https://cdnmedia.shemaletubevideos.com/flv/0005/362923/1080p.mp4",
+    videoUrl: "https://zonavipbr.pro/saturn/86aa7e21aadaa.mp4",
     duration: "11:20",
   },
   {
