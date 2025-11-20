@@ -53,7 +53,7 @@ export const videoData = [
     title: "LESBICAS",
     description: "Viciadas em buceta! Bata uma siririca ou punheta assistindo as lesbicas mais gostosas do brasil...",
     views: "6.5k",
-    videoUrl: "https://pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
+    videoUrl: "https://shorts.pornoxota.com/wp-content/uploads/2025/06/Incesto-de-primas-novinhas-lesbicas-transando-em-live.mp4",
     duration: "11:20",
   },
   {
