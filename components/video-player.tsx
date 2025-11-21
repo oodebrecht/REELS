@@ -668,7 +668,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
               poster={generatedThumbnail || video.thumbnail}
               loop
               playsInline
-              preload="none"
+              preload="metadata"
               onLoadedData={handleVideoLoad}
               onCanPlay={handleCanPlay}
               onError={handleVideoError}
