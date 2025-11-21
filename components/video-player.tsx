@@ -140,7 +140,6 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
       videoRef.current.pause()
       videoRef.current.currentTime = 0
       videoRef.current.volume = volume
-      videoRef.current.load()
     }
 
     // Handle GIF loading
@@ -669,7 +668,7 @@ export default function VideoPlayer({ video, onNext, onPrev, currentIndex, total
               poster={generatedThumbnail || video.thumbnail}
               loop
               playsInline
-              preload="metadata"
+              preload="none"
               onLoadedData={handleVideoLoad}
               onCanPlay={handleCanPlay}
               onError={handleVideoError}
